@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "date": "12 มิ.ย. 2025",
+  "version": "1.0.3",
+  "date": "13 มิ.ย. 2025",
   "changelog": [
-    "แก้ไขปืดดีบักคอนโซล",
-    "ปรับความเสถียนโปรแกรม"
+    "แสดงคอนโซ js",
+    "ปรับความสามารถเล็กน้อย"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.1/update1.0.1.zip"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.3/ReelsCounterPro-Setup-v1.0.3.exe"
 }
