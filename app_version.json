@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "date": "13 มิ.ย. 2025",
   "changelog": [
     "แก้ไขปืดคอนโซล JS",
-    "เพิ่มความเร็วการหายอด IG"
+    ""
   ],
   "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.3/ReelsCounterPro-Setup-v1.0.3.exe"
 }
