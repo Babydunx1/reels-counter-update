@@ -2,9 +2,10 @@
   "version": "1.0.5",
   "date": "14 มิ.ย. 2025",
   "changelog": [
-    "ปรับปรุง Logic การปิดเบราว์เซอร์ของ IG และ FB ให้ทำงานเหมือนกัน",
-    "แก้ไขข้อผิดพลาด NameError ใน ig_engine",
-    "ปรับปรุงความเสถียรโดยรวมของระบบ"
+    "แก้ไข Icon ของโปรแกรมให้คมชัดบน Taskbar",
+    "ปรับปรุงการปิดเบราว์เซอร์อัตโนมัติของ IG และ FB",
+    "แก้ไขการแสดงผลยอดวิวรวมของ IG",
+    "ปรับปรุงความเสถียรโดยรวม"
   ],
   "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.5/ReelsCounterPro-Setup-v1.0.5.exe"
 }
