@@ -2,8 +2,8 @@
   "version": "1.0",
   "date": "14 มิ.ย. 2025",
   "changelog": [
-    "ปรับปรุงความเสถียรโดยรวม",
-    "แก้ไขระบบUpdateให้ดีขึ้น"
+    "ปรับปรุงความเร็วโดยรวม",
+    "เพิ่มระบบauto update"
   ],
   "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0/ReelsCounterPro-Setup-v1.0.exe"
 }
