@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "date": "14 มิ.ย. 2025",
   "changelog": [
     "เพิ่มระบบChromeDriverManager",
@@ -7,5 +7,5 @@
     "ปรับปรุง callback view FB-IG ให้ดีขึ้น",
     "เพิ่มความสามารถ Pre-Scrolled อย่างมาก"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.3/ReelsCounterPro-Setup-v1.0.3.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.4/ReelsCounterPro.exe"
 }
