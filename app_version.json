@@ -3,7 +3,7 @@
   "date": "15 มิ.ย. 2025",
   "changelog": [
     "เพิ่มระบบChromeDriverManager",
-    "ระบบ scroll อัจฉริยะ",
+    "เพิ่มadd_defender",
     "ปรับปรุง callback view FB-IG ให้ดีขึ้น",
     "เพิ่มความสามารถ Pre-Scrolled อย่างมาก",
     "Fullback chrome path x86-64bit"
