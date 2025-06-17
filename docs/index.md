@@ -6,44 +6,51 @@
   <title>Reels Counter Pro | รายละเอียดโปรแกรม</title>
   <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    * {
+      box-sizing: border-box;
+    }
     body {
       font-family: 'Kanit', sans-serif;
-      background: #f7f9fc;
+      background: linear-gradient(to right, #f0f4ff, #e6f0fa);
       margin: 0;
       color: #2c3e50;
-      line-height: 1.7;
-      padding: 0 20px;
+      line-height: 1.8;
     }
     header {
-      background: #1e88e5;
+      background: #2196f3;
       color: white;
-      padding: 20px 0;
+      padding: 30px 20px;
       text-align: center;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
     h1 {
       margin: 0;
-      font-size: 1.8rem;
+      font-size: 2rem;
     }
     .container {
-      max-width: 900px;
-      margin: 40px auto;
+      max-width: 960px;
       background: white;
-      padding: 40px;
+      margin: 40px auto;
+      padding: 40px 30px;
       border-radius: 16px;
-      box-shadow: 0 0 20px rgba(0,0,0,0.08);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.07);
     }
     h2 {
       color: #1565c0;
-      border-bottom: 2px solid #e3f2fd;
-      padding-bottom: 6px;
-      margin-top: 40px;
+      border-left: 5px solid #42a5f5;
+      padding-left: 12px;
+      margin-top: 48px;
+    }
+    h3 {
+      color: #1e88e5;
+      margin-top: 30px;
     }
     ul {
-      padding-left: 20px;
+      padding-left: 24px;
+      margin-top: 10px;
     }
-    li::marker {
-      color: #1e88e5;
+    li {
+      margin-bottom: 10px;
     }
     .highlight {
       background: #e3f2fd;
@@ -55,7 +62,7 @@
       text-align: center;
       font-size: 0.9em;
       color: #888;
-      margin-top: 60px;
+      margin: 60px 0 20px;
     }
   </style>
 </head>
