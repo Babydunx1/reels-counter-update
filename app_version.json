@@ -1,9 +1,10 @@
 {
-  "version": "1.0.7",
-  "date": "16 มิ.ย. 2025",
+  "version": "1.0.8",
+  "date": "20 มิ.ย. 2025",
   "changelog": [
-    "Hot Fix",
-    "แก้ savecookieไม่ทำงาน"    
+    "เพิ่มระบบ Jump Scroll อัจฉริยะ",
+    "เพิ่มประสิทธิภาพการดึงวันที่ FB อย่างมาก",
+    "เพิ่ม Multi-threaded Browser สำหรับดึงวันที่FB",
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.7/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.8/ReelsCounterUpdater.exe"
 }
