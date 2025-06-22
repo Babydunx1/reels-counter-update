@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
+  "version": "1.1",
   "date": "22 มิ.ย. 2025",
   "changelog": [
-    "เพิ่มระบบ Jump Scroll อัจฉริยะ",
-    "ปรับปรุงระบบJump Scroll FB",
-    "แก้ระแบบสแกนวันฟิต FB ที่ลึกกว่าปกติและสแกนวันไม่เจอ",
-    "เพิ่มระบบ Standby เบราเซอร์ FB"
+    "เพิ่มระบบตรวจสอบ Fast-Exit แบบ ID แม่นยำสูง",
+    "เพิ่ม fallback แม่นยำเมื่อใช้งานเพจ Reels ล้วน & Reels แปลก",
+    "เพิ่มความเสถียรใน DOM Boost + Scroll-loop สำหรับทุกเพจ",
+    "ยกระดับความแม่นยำการแมตช์ Reels ID ก่อนเข้าเฟส “ดึงวันที่"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.0.9/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.1/ReelsCounterUpdater.exe"
 }
