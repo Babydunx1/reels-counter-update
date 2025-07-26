@@ -1,11 +1,11 @@
 {
-  "version": "1.2",
-  "date": "25 มิ.ย. 2025",
+  "version": "1.3",
+  "date": "26 ก.ค. 2025",
   "changelog": [
-    "อัปเดตใหม่! JSON-First Date Extraction Engine  ",
-    "ดึงวันโพสต์ผ่าน JSON script เร็วกว่าเดิมมาก (<200ms/คลิป)",
-    "มี fallback ระบบเก่าอัตโนมัติถ้า JSON path fail ",
-    "เพิ่มความเร็วในการดึงวันที่ Fb อย่างมาก"
+    "ฟีเจอร์ใหม่กึงยอดวิวและวันที่(Facebook Video)",
+    "UI/UX ใหม่ทั้งหมด พร้อมการ์ดคำนวนสถิติต่างๆ",
+    "เพิ่มความเร็วและความเสถียรระบบทั้งหมด ทั้ง FB-IG",
+    "อัปเดตข้อมูลแสดงผลเรียลไทม์ทุกแพลตฟอร์ม"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.2/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.3/ReelsCounterUpdater.exe"
 }
