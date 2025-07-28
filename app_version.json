@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "date": "28 ก.ค. 2025",
   "changelog": [
     "ยกเครื่องระบบดึงวันที่ใหม่ทั้งหมด",
@@ -7,5 +7,5 @@
     "เพิ่มความแม่นยำป้องกันการเปลี่ยนแปลงของแพลตฟอร์ม",
     "แก้ไขปัญหา Facebook แสดงผลวันที่ไม่ถูกต้องอย่างถาวร"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.3.1/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.3.2/ReelsCounterUpdater.exe"
 }
