@@ -1,12 +1,12 @@
 {
-  "version": "1.3.21",
-  "date": "29 ก.ค. 2025",
+  "version": "1.4",
+  "date": "30 ก.ค. 2025",
   "changelog": [
-    "ยกเครื่องระบบดึงวันที่ใหม่ทั้งหมด",
-    "เพิ่มระบบ Auto-Retry แก้ปัญหาดึงข้อมูลไม่สำเร็จ",
+    "รองรับ Facebook ทุกภาษา 20+ ภาษาทั่วโลก (auto-detect)",
+    "ความเร็วโดยรวมเพิ่มขึ้น 5-10 เท่า",
     "สามารถลบด้วยคีบอร์ด Del และ Ctrl+Z(Undo)",
-    "แก้ Bug ดึงวันที่ของ facebook",
-    "ทนต่อการเปลี่ยนแปลงของแพลตฟอร์ม"
+    "รองรับ Facebook UI ที่มีอักขระแปลก เช่น พม่า รัสเซีย ญี่ปุ่น",
+    "แก้ Bug ดึงวันที่ Facebook ที่แสดงผลไม่ถูกต้อง"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.3.2/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.4/ReelsCounterUpdater.exe"
 }
