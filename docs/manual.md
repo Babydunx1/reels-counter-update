@@ -36,14 +36,14 @@
         src="https://raw.githubusercontent.com/Babydunx1/reels-counter-update/main/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A13.png"
         alt="IG Reels Screenshot"
         width="280" /><br>
-      <em>📱 IG Reels View</em>
+      <em>💻 FB Reels View</em>
     </td>
     <td align="center">
       <img
         src="https://raw.githubusercontent.com/Babydunx1/reels-counter-update/main/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A14.png"
         alt="FB Reels Screenshot"
         width="280" /><br>
-      <em>💻 FB Reels View</em>
+      <em>📱 IG Reels View</em>
     </td>
   </tr>
 </table>
