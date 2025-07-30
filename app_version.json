@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "date": "30 ก.ค. 2025",
+  "version": "1.4.2",
+  "date": "31 ก.ค. 2025",
   "changelog": [
     "รองรับ Facebook ทุกภาษา 20+ ภาษาทั่วโลก (auto-detect)",
     "ความเร็วโดยรวมเพิ่มขึ้น 5-10 เท่า",
@@ -8,5 +8,5 @@
     "รองรับ Facebook UI ที่มีอักขระแปลก เช่น พม่า รัสเซีย ญี่ปุ่น",
     "แก้ Bug ดึงวันที่ Facebook ที่แสดงผลไม่ถูกต้อง"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.4.1/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.4.2/ReelsCounterUpdater.exe"
 }
