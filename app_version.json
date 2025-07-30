@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "date": "31 ก.ค. 2025",
   "changelog": [
     "รองรับ Facebook ทุกภาษา 20+ ภาษาทั่วโลก (auto-detect)",
@@ -8,5 +8,5 @@
     "รองรับ Facebook UI ที่มีอักขระแปลก เช่น พม่า รัสเซีย ญี่ปุ่น",
     "แก้ Bug ดึงวันที่ Facebook ที่แสดงผลไม่ถูกต้อง"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.4.2/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.4.3/ReelsCounterUpdater.exe"
 }
