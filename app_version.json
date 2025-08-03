@@ -1,13 +1,14 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "date": "1 ส.ค. 2025",
   "changelog": [
     "เพิ่มระบบ chrome profile",
     "เพิ่มระบบ Fullback ให้เสถียรมากขึ้น",
     "สร้าง Cookie อัตโนมัต ถ้า chrome profile ยังไม่เสียหาย",
-    "เพิ่มความเสถียรของเบราเซอร์อย่างมาก",
+    "แก้บัคการสร้าง Chrome profile",
     "แก้บัคเปิดลิ้งผ่าน IG ไม่ได้",
     "แก้ปัญหาเปิดลิ้งแล้วโดน IG บล็อค"
   ],
-  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.4.4/ReelsCounterUpdater.exe"
+  "download_url": "https://github.com/Babydunx1/reels-counter-update/releases/download/update1.4.5/ReelsCounterUpdater.exe"
 }
+
